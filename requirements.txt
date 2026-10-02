@@ -1,0 +1,17 @@
+# DevClaw: Python Reference Architecture for OpenClaw
+# -----------------------------------------------------------------
+# Core DevClaw is designed to run with Python Standard Library (zero mandatory external dependencies).
+# The packages below are optional enhancements for local LLM orchestration and rich terminal UX.
+
+# Optional: Enhanced Terminal UI
+rich>=13.7.0
+
+# Optional: Extended HTTP Client
+requests>=2.31.0
+
+# Optional: Local & Cloud LLM SDKs
+ollama>=0.2.0
+openai>=1.20.0
+
+# Optional: Testing Framework
+pytest>=8.0.0

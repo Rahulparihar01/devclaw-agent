@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+devclaw.db
+.pytest_cache/
+node_modules/
